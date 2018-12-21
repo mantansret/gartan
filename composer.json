@@ -1,0 +1,25 @@
+{
+    "name": "jaga-jaga/lima-waktu",
+    "description": "GO ",
+    "homepage": "https://github.com/kutakmau",
+	"keywords": ["Here sof", "Full download", "go git"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gak ada",
+            "homepage": "https://drive.google.com/open?id=1JYcYZwIQ60e09ix_vMi2Tf9mk8tEu30f",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
